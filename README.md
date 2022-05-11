@@ -16,3 +16,37 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 ## Business Goal
 You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+
+
+## Below is the list of important Features selected by Lasso Model:
+
+['Condition2_PosN',
+ 'OverallQual_10',
+ 'OverallQual_9',
+ 'TotalBsmtSF',
+ 'BsmtFinSF1',
+ 'Neighborhood_NoRidge',
+ 'SaleCondition_Partial',
+ 'KitchenAbvGr',
+ 'OverallQual_8',
+ 'KitchenQual_TA',
+ 'YearBuilt',
+ 'GarageCars',
+ 'GarageArea',
+ 'Exterior1st_BrkFace',
+ 'KitchenQual_Gd',
+ 'constant',
+ 'Fireplaces',
+ 'Neighborhood_Crawfor',
+ 'BsmtExposure_Gd',
+ 'YearRemodAdd',
+ 'BsmtQual_Gd',
+ 'BsmtQual_TA',
+ 'OverallCond_3',
+ 'OverallCond_4',
+ 'Functional_Typ',
+ 'OverallQual_4',
+ 'Neighborhood_Edwards',
+ 'OverallQual_5',
+ 'OverallQual_6',
+ 'ExterQual_TA']
